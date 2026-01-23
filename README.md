@@ -8,6 +8,11 @@ Estudante de **Engenharia de Software** na **Universidade Católica do Salvador 
 Sou apaixonado por tecnologia e por resolver problemas através do código.
 
 Acredito que a melhor forma de aprender é colocando a mão na massa, por isso estou sempre desenvolvendo projetos para praticar e evoluir minhas habilidades em desenvolvimento de software.
+<div align="left">
+  <a href="https://www.linkedin.com/in/jpedro-santana-sousa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
 
 <h2 align="center">Estatísticas</h2>
 <div align="center">
@@ -17,11 +22,7 @@ Acredito que a melhor forma de aprender é colocando a mão na massa, por isso e
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jpedro-santana-sousa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
 
